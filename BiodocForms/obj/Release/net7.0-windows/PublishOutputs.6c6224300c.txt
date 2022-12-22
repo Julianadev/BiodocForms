@@ -1,0 +1,11 @@
+C:\Users\jully\OneDrive\Documentos\BiodocForms\BiodocForms\bin\Release\net7.0-windows\app.publish\BiodocForms.exe
+C:\Users\jully\OneDrive\Documentos\BiodocForms\BiodocForms\bin\Release\net7.0-windows\app.publish\BiodocForms.dll
+C:\Users\jully\OneDrive\Documentos\BiodocForms\BiodocForms\bin\Release\net7.0-windows\app.publish\BiodocForms.deps.json
+C:\Users\jully\OneDrive\Documentos\BiodocForms\BiodocForms\bin\Release\net7.0-windows\app.publish\BiodocForms.runtimeconfig.json
+C:\Users\jully\OneDrive\Documentos\BiodocForms\BiodocForms\bin\Release\net7.0-windows\app.publish\BiodocForms.pdb
+C:\Users\jully\OneDrive\Documentos\BiodocForms\BiodocForms\bin\Release\net7.0-windows\app.publish\System.Data.SqlClient.dll
+C:\Users\jully\OneDrive\Documentos\BiodocForms\BiodocForms\bin\Release\net7.0-windows\app.publish\runtimes\win-arm64\native\sni.dll
+C:\Users\jully\OneDrive\Documentos\BiodocForms\BiodocForms\bin\Release\net7.0-windows\app.publish\runtimes\win-x64\native\sni.dll
+C:\Users\jully\OneDrive\Documentos\BiodocForms\BiodocForms\bin\Release\net7.0-windows\app.publish\runtimes\win-x86\native\sni.dll
+C:\Users\jully\OneDrive\Documentos\BiodocForms\BiodocForms\bin\Release\net7.0-windows\app.publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jully\OneDrive\Documentos\BiodocForms\BiodocForms\bin\Release\net7.0-windows\app.publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
